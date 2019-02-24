@@ -1,0 +1,11 @@
+C:\Vstudiocode\InterfaceExample\bin\Debug\netcoreapp2.1\InterfaceExample.deps.json
+C:\Vstudiocode\InterfaceExample\bin\Debug\netcoreapp2.1\InterfaceExample.runtimeconfig.json
+C:\Vstudiocode\InterfaceExample\bin\Debug\netcoreapp2.1\InterfaceExample.runtimeconfig.dev.json
+C:\Vstudiocode\InterfaceExample\bin\Debug\netcoreapp2.1\InterfaceExample.dll
+C:\Vstudiocode\InterfaceExample\bin\Debug\netcoreapp2.1\InterfaceExample.pdb
+C:\Vstudiocode\InterfaceExample\obj\Debug\netcoreapp2.1\InterfaceExample.csprojAssemblyReference.cache
+C:\Vstudiocode\InterfaceExample\obj\Debug\netcoreapp2.1\InterfaceExample.csproj.CoreCompileInputs.cache
+C:\Vstudiocode\InterfaceExample\obj\Debug\netcoreapp2.1\InterfaceExample.AssemblyInfoInputs.cache
+C:\Vstudiocode\InterfaceExample\obj\Debug\netcoreapp2.1\InterfaceExample.AssemblyInfo.cs
+C:\Vstudiocode\InterfaceExample\obj\Debug\netcoreapp2.1\InterfaceExample.dll
+C:\Vstudiocode\InterfaceExample\obj\Debug\netcoreapp2.1\InterfaceExample.pdb
